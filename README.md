@@ -1,4 +1,4 @@
-# Credit-Card-Fraud-Detection
+# Credit Card Fraud Detection
 - Project is made as a final team project during the course Data Science ML & DL by [REGex Software Services](https://www.regexsoftware.com/) 
 
 ## [ABSTRACT](https://github.com/snikhil17/Credit-Card-Fraud-Detection/tree/main/0.%20Notebooks%20and%20Report)
