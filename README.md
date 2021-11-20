@@ -1,4 +1,5 @@
 # Credit-Card-Fraud-Detection
+- Project is made as a final team project during the course Data Science ML & DL by [REGex Software Services](https://www.regexsoftware.com/) 
 
 ## ABSTRACT
 It is important that credit card companies are able to recognize fraudulent
@@ -22,7 +23,7 @@ charged for items that they did not purchase.
 - A more trustworthy source must be taken which double-checks the data, at least for training the model.
 - We can make the model simple and interpretable so that when the scammer adapts to it with just some tweaks, we can have a new model up and running to deploy.
 
-## PROJECT APPROACH
+## [PROJECT APPROACH](https://github.com/snikhil17/Credit-Card-Fraud-Detection/tree/main/0.%20Notebooks%20and%20Report)
 - **Data Acquisition:** Collected data from research (http://mlg.ulb.ac.be) of ULB (Université Libre de Bruxelles).
 - **Exploratory Data Analysis (EDA):**
   - Missing Value and Duplicates
@@ -38,3 +39,11 @@ charged for items that they did not purchase.
 - Build Model using parameters obtained from Optuna hyper-parameter tuning.
 - **Final model used: Voting Classifier with soft voting mode**, which considers the - probabilities thrown by each ML model, these probabilities will be weighted and
 averaged, consequently the winning class will be the one with the highest weighted and averaged probability.
+
+## TEAM INFORMATION:
+- Nikhil Shrestha: AIRSS1129
+- Maneesh Arava: AIRSS1142
+- Y. Manohar Reddy: AIRSS1139
+- Furzana J: AIRSS1132
+- Afzal Vali: AIRSS1138
+
